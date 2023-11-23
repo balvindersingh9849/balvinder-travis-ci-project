@@ -14,5 +14,3 @@ cache: npm
 install: # Hook provided by Travis CI
 - npm install
 
-# Tell Travis CI to run the test for your Node application
-
