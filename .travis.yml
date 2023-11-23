@@ -13,4 +13,5 @@ cache: npm
 # You can also add other dependencies you like Travis to install globally.
 install: # Hook provided by Travis CI
 - npm install
-
+script:
+- npm test 
