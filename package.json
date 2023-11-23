@@ -8,8 +8,8 @@
   },
   "devDependencies": {},
  "scripts": {
-    "test": "jest",
-    "start": "node index.js"
+    "test": "echo\"Echo error" && exit 1"
+    
   },
   "keywords": [],
   "author": "",
